@@ -27,7 +27,7 @@ Today we will cover:
     - Other Workshops
   - Intro: Introduct yourself! (In the chat if this is virtual)
 
-  1. Download Atom from atom.io
+  1. Download VS Code from [https://code.visualstudio.com/](https://code.visualstudio.com/download)
   2. Create a new folder
   3. Open that folder in Atom
 
