@@ -29,7 +29,7 @@ Today we will cover:
 
   1. Download VS Code from [https://code.visualstudio.com/](https://code.visualstudio.com/download)
   2. Create a new folder
-  3. Open that folder in Atom
+  3. Open that folder in VSCode
 
   - What is HTML?
   - What is CSS?
